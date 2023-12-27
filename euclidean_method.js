@@ -10,7 +10,7 @@ const greatest_common_devisor = (a, b) => {
         }
         if ( a > b ){
             a = a - b;
-        }else{
+        } else {
             b = b - a;
         }
     }
