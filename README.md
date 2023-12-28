@@ -7,3 +7,5 @@ Computer science Degree
   - [ ] Herons's method
   - [x] Euclidean method
   - [x] Linear search with Array's
+  - [ ] Bubble sort
+  - [ ] Insertion sort
